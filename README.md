@@ -1,6 +1,6 @@
 # Raycaster game engine
 ## Description
-Raycaster game engine using SDL2 and pthreads (multithreaded render)
+Raycaster game engine using SDL2
 
 ## Features
 1. Textures (walls, floor, ceiling)
