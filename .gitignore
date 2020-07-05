@@ -1,0 +1,9 @@
+cmake-build-debug/
+CMakeFiles/
+build/
+.idea/
+obj/
+*.a
+*.o
+*.data
+*.old
